@@ -42,4 +42,4 @@ How to Run
 `python main.py`
 
 ![Confusion Matrix](utils/confusion-matrix.png)
-![GUI](utils/confusion-matrix.png)
+![GUI](utils/web-gui.png)
