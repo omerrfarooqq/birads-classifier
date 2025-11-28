@@ -17,8 +17,8 @@ Inference script for real image predictions
 
 The classification helps categorize lesions from benign → highly suspicious, improving diagnostic speed & consistency in screening workflows.
 
-Directory Structure
-birads_classifier/
+Directory Structure<br>
+birads_classifier/<br>
 │── app/                     # API / UI (if implemented)<br>
 │── config/                  # Configuration YAMLs<br>
 │── data/                    # Dataset (ignored in git)<br>
@@ -39,7 +39,7 @@ How to Run
 `python main.py --train`
 
 3. Predict on an image
-`python main.py --infer path/to/image.jpg`
+`python main.py`
 
-![Confusion Matrix](utils\confusion-matrix.png)<br>
-![GUI](utils\confusion-matrix.png)
+![Confusion Matrix](c:\Users\omerf\birads_classifier\utils\confusion-matrix.png)
+![GUI](c:\Users\omerf\birads_classifier\utils\confusion-matrix.png)
