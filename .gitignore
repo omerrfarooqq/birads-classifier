@@ -1,0 +1,38 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# Model checkpoints, weights, logs
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.h5
+
+# Dataset and large image folders
+data/
+*.zip
+*.tar
+*.gz
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Environment/config files
+*.log
+*.env
