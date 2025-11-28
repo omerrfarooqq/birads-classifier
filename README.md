@@ -41,5 +41,5 @@ How to Run
 3. Predict on an image
 `python main.py`
 
-![Confusion Matrix](c:\Users\omerf\birads_classifier\utils\confusion-matrix.png)
-![GUI](c:\Users\omerf\birads_classifier\utils\confusion-matrix.png)
+![Confusion Matrix](utils/confusion-matrix.png)
+![GUI](utils/confusion-matrix.png)
